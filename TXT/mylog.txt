@@ -20,3 +20,5 @@ ZCZC W01 30 L11 Assignment 01
 ZCZC W01 99 L12 Assignment 02
 ZCZC W01 30 L13 Assignment 03
 ZCZC W01 45 L14 Assignment 04
+ZCZC W01 25 L15 Assignment 05
+ZCZC W01 15 L16 Assignment 06
