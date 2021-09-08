@@ -1,3 +1,9 @@
+---
+permalink: /LINKS/
+---
+
+# LINKS
+
 ## Week 00
 
 - [Geeksforgeeks Cluster Computer](https://www.geeksforgeeks.org/clusters-computer-organisation/)
