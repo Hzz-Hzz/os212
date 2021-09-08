@@ -12,8 +12,10 @@ ZCZC W00 05 L13 Assignment 03
 ZCZC W00 05 L14 Assignment 04
 ZCZC W00 110 L02 OS zoom meeting
 ZCZC W00 20 L15 Reading assignment
-
-
 ZCZC W00 90 L06 Latihan soal 195.pdf
 ZCZC W00 90 L06 Mempelajari slide
+
+ZCZC W01 15 L10 Assignment 00
+ZCZC W01 30 L11 Assignment 01
+ZCZC W01 100 L12 Assignment 02
 
