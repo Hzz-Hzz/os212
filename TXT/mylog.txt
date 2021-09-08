@@ -22,3 +22,4 @@ ZCZC W01 30 L13 Assignment 03
 ZCZC W01 45 L14 Assignment 04
 ZCZC W01 25 L15 Assignment 05
 ZCZC W01 15 L16 Assignment 06
+ZCZC W01 60 L64 Helped my friend to setup their linux
