@@ -3,7 +3,7 @@ permalink: /LINKS/
 
 # LINKS
 
-## Week 1
+
 
 1. [Regex 101](https://regex101.com/)
 	Sangat membantu dan memudahkan kita dalam menyusun regex. 
