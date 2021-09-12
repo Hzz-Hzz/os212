@@ -22,8 +22,9 @@ ZCZC W01 30 L14 Assignment 04
 ZCZC W01 45 L15 Assignment 05
 ZCZC W01 25 L16 Assignment 06
 ZCZC W01 15 L17 Assignment 07
+ZCZC W01 100 L02 Zoom Meeting ketiga
 ZCZC W01 60 L64 Helped my friend to setup their linux
-ZCZC W01 90 L64 Helped my friend to setup their linux
-ZCZC W01 90 L18 Assignment 08
+ZCZC W01 90 L64 Helped my friend to setup their linux again
+ZCZC W01 120 L18 Assignment 08
 ZCZC W01 90 L19 Assignment 09
 ZCZC W01 70 L20 menjawab script problems di forum
