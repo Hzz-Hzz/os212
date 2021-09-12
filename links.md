@@ -4,7 +4,7 @@ permalink: /LINKS/
 
 1. [Regex 101](https://regex101.com/)
 	Sangat membantu dan memudahkan kita dalam menyusun regex. 
-    
+   
 2. [Daftar Command Linux](https://www.tutorialspoint.com/unix_commands/index.htm)
 	Bisa membantu kita supaya kita tidak perlu repot-repot menghafal seluruh perintah-perintah yang ada di dalam linux
 
@@ -22,5 +22,8 @@ permalink: /LINKS/
 
 7. [Bingung syntax garis lurus pada bash yang sangat membingungkan?](https://stackoverflow.com/a/9834118/7069108)
    Pertama kali saya melihat garis lurus pada syntax bash, saya sangat bingung. Biasanya simbol ini dipakai untuk bitwise or operator ataupun or logic gate. Tetapi sangat berbeda pada pada bash. Oleh karena itu jawaban pada link yang saya berikan bisa sangat menjelaskan mengenai apa yang terjadi ketika kita menggunakan simbol garis vertikal pada bash.
+
+8. [Free software? What does it mean?](https://www.youtube.com/watch?v=Ag1AKIl_2GM)
+   Sering kali kita mengira ketika kita menemukan frasa "free software" di internet itu berarti program yang gratis tanpa perlu membayar. Namun ternyata kita selama ini salah mengira arti dari frasa ini. Dari youtube ini, saya bisa belajar banyak hal yang tidak saya ketahui sebelumnya mengenai "free software".
 
    
