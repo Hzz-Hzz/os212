@@ -11,11 +11,20 @@ rm -f $SHA $SHA.asc
 # echo "sha256sum $FILES > $SHA"
 sha256sum $FILES > $SHA
 
+echo ''
+echo ''
+
 # echo "sha256sum -c $SHA"
 sha256sum -c $SHA
 
+echo ''
+echo ''
+
 # echo "gpg --output $SHA.asc --armor --sign --detach-sign $SHA"
 gpg --output $SHA.asc --armor --sign --detach-sign $SHA
+
+echo ''
+echo ''
 
 # echo "gpg --verify $SHA.asc $SHA"
 gpg --verify $SHA.asc $SHA
