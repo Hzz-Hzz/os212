@@ -1,4 +1,7 @@
-permalink: /LINKS/
+---
+layout: "layout"
+---
+
 
 # LINKS
 
