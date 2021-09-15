@@ -22,8 +22,8 @@ permalink: /LINKS/
 6. [Dokumentasi grep](https://www.gnu.org/software/grep/manual/grep.html)
    Sangat penting bagi kita untuk mempelajari documentasi dalam belajar bahasa pemrograman. Laman situs ini merupakan salah satu yang bermanfaat bagi saya karena ketika saya lupa akan sesuatu format/perintah di grep, saya bisa dengan cepat mendatangi laman ini dan mencari hal yang ingin saya capai dengan mudah.
 
-7. [Bingung syntax garis lurus pada bash yang sangat membingungkan?](https://stackoverflow.com/a/9834118/7069108)
-   Pertama kali saya melihat garis lurus pada syntax bash, saya sangat bingung. Biasanya simbol ini dipakai untuk bitwise or operator ataupun or logic gate. Tetapi sangat berbeda pada pada bash. Oleh karena itu jawaban pada link yang saya berikan bisa sangat menjelaskan mengenai apa yang terjadi ketika kita menggunakan simbol garis vertikal pada bash.
+7. [Bingung syntax garis vertikal lurus pada bash yang sangat membingungkan?](https://stackoverflow.com/a/9834118/7069108)
+   Pertama kali saya melihat garis vertikal lurus pada syntax bash, saya sangat bingung. Biasanya simbol ini dipakai untuk bitwise or operator ataupun or logic gate. Tetapi sangat berbeda pada pada bash. Oleh karena itu jawaban pada link yang saya berikan bisa sangat menjelaskan mengenai apa yang terjadi ketika kita menggunakan simbol garis vertikal pada bash.
 
 8. [Free software? What does it mean?](https://www.youtube.com/watch?v=Ag1AKIl_2GM)
    Sering kali kita mengira ketika kita menemukan frasa "free software" di internet itu berarti program yang gratis tanpa perlu membayar. Namun ternyata kita selama ini salah mengira arti dari frasa ini. Dari youtube ini, saya bisa belajar banyak hal yang tidak saya ketahui sebelumnya mengenai "free software".
