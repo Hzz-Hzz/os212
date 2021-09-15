@@ -38,4 +38,4 @@ ZCZC W02 10 L15 Assignment 05
 ZCZC W02 05 L16 Assignment 06
 ZCZC W02 10 L17 Assignment 07
 ZCZC W02 10 L18 Assignment 08
-ZCZC W02 30 L24 make an auto update checksum and auto pull-add-commit-push script
+ZCZC W02 40 L24 make an auto update checksum and auto pull-add-commit-push script
