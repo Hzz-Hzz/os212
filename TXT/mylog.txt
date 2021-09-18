@@ -32,11 +32,17 @@ ZCZC W01 70 L20 menjawab script problems di forum
 
 ZCZC W02 05 L05 Quiz W01
 ZCZC W02 100 L02 Zoom Meeting synchronous
-ZCZC W02 10 L11 Assignment 01
+ZCZC W02 120 L11 Assignment 01
 ZCZC W02 30 L12 Assignment 02
+ZCZC W02 120 L13 Assignment 03
 ZCZC W02 05 L14 Assignment 04 
 ZCZC W02 10 L15 Assignment 05
 ZCZC W02 05 L16 Assignment 06
 ZCZC W02 10 L17 Assignment 07
 ZCZC W02 10 L18 Assignment 08
+ZCZC W02 15 L19 Assignment 09
+
+ZCZC W02 15 L09 Assignment 11
+ZCZC W02 15 L09 Assignment 12
+ZCZC W02 15 L09 Assignment 13
 ZCZC W02 40 L24 make an auto update checksum and auto pull-add-commit-push script
