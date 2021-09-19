@@ -138,10 +138,10 @@ pre {
 }
 
 code {
-  color:            #e7e7e7;
+  color:            #ffffff;
   /* background-color: #002142;   */
-  background-color: #222222;  
-  border-radius: 10%;
+  background-color: #777777;  
+  border-radius: 2px;
   padding: 4px;
   font-family:  sans-serif,monospace;
 }
@@ -188,6 +188,15 @@ code {
   }
   h1 {
     font-size: 1em;
+  }
+  
+  
+  header.header_outter > .row{
+    display: grid;
+    grid-template-columns: 1fr;
+  }
+  .column.left{
+      display:none;
   }
   .header_title{
       font-size: 1em;
