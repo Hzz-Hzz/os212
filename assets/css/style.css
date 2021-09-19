@@ -140,9 +140,9 @@ pre {
 code {
   color:            #ffffff;
   /* background-color: #002142;   */
-  background-color: #777777;  
+  background-color: #444444;  
   border-radius: 2px;
-  padding: 4px;
+  padding: 2px;
   font-family:  sans-serif,monospace;
 }
 
