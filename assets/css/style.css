@@ -25,7 +25,7 @@ body {  /* define variables */
 }
 
 
-header.header_outter{
+header.header_outter > .row{
     width:calc(100% + 30px);
 }
 
