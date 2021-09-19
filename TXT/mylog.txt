@@ -37,7 +37,7 @@ ZCZC W02 110 L02 Zoom Meeting synchronous
 ZCZC W02 20 L02 Zoom Meeting synchronous sesi bertanya
 ZCZC W02 180 L11 Assignment #01 -- Reading assignment
 ZCZC W02 30 L12 Assignment  #02  -- C demos
-ZCZC W02 150 L13 Assignment #03 -- Cyber security youtube
+ZCZC W02 190 L13 Assignment #03 -- Cyber security youtube
 ZCZC W02 05 L14 Assignment  #04 -- Menciptakan GnuPG key
 ZCZC W02 10 L15 Assignment  #05 -- Menampilkan seluruh list dari GPG key
 ZCZC W02 05 L16 Assignment  #06 -- Mengimport ospubkey.txt key
