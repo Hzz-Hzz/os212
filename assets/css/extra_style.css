@@ -10,8 +10,17 @@
 
 /* initiation */
 
+body {
+    --color-text: #111;
+    --color-number: #999;
+    --color-bg: #fff;
+    --color-link: #1352d1;
+    --color-link-hover: #111;
+}
+
+
 a {
-    text-decoration: none;
+    /* text-decoration: none; */
     color: var(--color-link);
     outline: none;
 }
@@ -49,7 +58,7 @@ a:focus-visible {
 
 .link {
     cursor: pointer;
-    font-size: 18px;
+    /* font-size: 18px; */
     position: relative;
     white-space: nowrap;
     color: var(--color-text);
@@ -130,7 +139,9 @@ a:not(.link--kale):hover::before {
 .link--kale {
     font-family: halyard-display, sans-serif;
     font-weight: 600;
-    text-transform: lowercase;
+    /*
+      text-transform: lowercase; 
+    */
 }
 
 .link--kale::before {
