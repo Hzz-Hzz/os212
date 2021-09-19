@@ -65,7 +65,7 @@ header.header_outter > .row{
   display:          inline-block;
   background:       #0390fc;
   height:           var(--default-header-size);
-  width:            100%;
+  /* width:            100%; */
   padding-top:      var(--default-header-photoprofile-padding);
   padding-bottom:   var(--default-header-photoprofile-padding);
   padding-left:     var(--default-header-photoprofile-padding);
@@ -79,7 +79,7 @@ header.header_outter > .row{
 
 .right {
   height:           105px;
-  width:            calc(100% - var(--default-header-size));
+  /* width:            calc(100% - var(--default-header-size)); */
   padding-top:      40px;
   padding-bottom:   5px;
   padding-left:     30px;
@@ -110,20 +110,22 @@ header.header_outter > .row{
 
 .navbar ul li a {
   text-decoration: none;
-  font-size:        1em;
+  font-size:        1.5em;
 }
 
-/*
+
 
 .navbar ul li a:hover {
-  background-color:       #0390fc;
-  color:            #d7d7d7;
-  font-size:        1em;
-  font-weight:      bold;
+  /*
+      background-color:       #0390fc;
+      color:            #d7d7d7;
+      font-weight:      bold;
+  */
+  font-size:        1.5em;
 }
 
 
-*/
+
 
 
 pre {
@@ -186,6 +188,9 @@ code {
   }
   h1 {
     font-size: 1em;
+  }
+  .header_title{
+      font-size-adjust:80%;
   }
 }
 
