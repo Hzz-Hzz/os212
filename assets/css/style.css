@@ -19,9 +19,9 @@
 }
 
 
-.header_cont{
+.header_container{
     font-size:    1em;
-    font-family:  'ReginaScript',verdana,arial,helvetica,san-serif;
+    font-family:  'WinterHoliday',verdana,arial,helvetica,san-serif;
 }
 
 .container {
@@ -112,6 +112,7 @@ pre {
 code {
   color:            #d7d7d7;
   background-color: #002142;  
+  border-radius: 10%;
   font-family:  sans-serif,monospace;
 }
 
