@@ -13,7 +13,17 @@
   <meta name="viewport"    content="width=device-width, initial-scale=1">
   <meta name="description" content="{{ page.excerpt | default: site.description }}">
   <!-- link href="{{ site.baseurl }}/assets/css/css.css" rel="stylesheet" type="text/css" title="Style" -->
-  <!-- link href="/assets/css/css.css" rel="stylesheet" type="text/css" title="Style" -->
+  
+  <style>
+    @font-face {
+        font-family: "ReginaScript";
+        src: url("{{ site.baseurl }}/assets/fonts/ReginaScript.ttf");
+        /* src: url("CustomFont.woff") format("woff"),
+        url("CustomFont.otf") format("opentype"),
+        url("CustomFont.svg#filename") format("svg"); */
+    }
+  </style>
+  
   <link href="{{ site.baseurl }}/assets/css/style.css" rel="stylesheet" type="text/css" title="Style">
 </head>
 
