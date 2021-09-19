@@ -26,7 +26,8 @@ body {  /* define variables */
 
 
 header.header_outter > .row{
-    width:calc(100% + 30px);
+    display: grid;
+    grid-template-columns: var(--default-header-size) 1fr;
 }
 
 .header_container{
