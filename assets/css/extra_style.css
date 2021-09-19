@@ -136,7 +136,7 @@ a:not(.link--kale):hover::before {
 
 
 .link--kale {
-    font-family: halyard-display, sans-serif;
+    font-family: verdana, sans-serif;
     font-weight: 600;
     /*
       text-transform: lowercase; 

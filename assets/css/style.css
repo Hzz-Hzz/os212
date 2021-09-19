@@ -110,7 +110,7 @@ header.header_outter > .row{
 
 .navbar ul li a {
   text-decoration: none;
-  font-size:        1.5em;
+  font-size:        1em;
 }
 
 
@@ -121,7 +121,7 @@ header.header_outter > .row{
       color:            #d7d7d7;
       font-weight:      bold;
   */
-  font-size:        1.5em;
+  font-size:        1em;
 }
 
 
@@ -190,7 +190,7 @@ code {
     font-size: 1em;
   }
   .header_title{
-      font-size-adjust:80%;
+      font-size: 1em;
   }
 }
 
