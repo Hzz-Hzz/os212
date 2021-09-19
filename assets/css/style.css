@@ -1,0 +1,158 @@
+/*
+ Shamelessly stolen from "Here, There, and Everywhere",
+ including but not limited to "bootstrap", "stack overflow", 
+ "Mike Dane", "w3schools", et al.
+ */
+
+.backclass {
+  background-image:url(/assets/img/default.png)
+}
+
+.plainclass {
+  color:            white;
+  background-color: #1a1a1a;
+}
+
+.plainclass1 {
+  color:            white;
+  background-color: #222222;
+}
+
+.container {
+  max-width:    70%;
+  margin:       0 auto;
+  font-size:    1em;
+  font-family:  verdana,arial,helvetica,san-serif;
+  text-align:   justify;
+}
+
+.container a {
+  color: #a0a0a0;
+}
+
+.container a:hover {
+  color: #f0f0f0;
+}
+
+.row {
+}
+
+.column {
+  float:            left;
+  display:          inline-block;
+  background:       #ef2929;
+  height:           130px;
+  width:            100%;
+  padding-top:      10px;
+  padding-bottom:   10px;
+  padding-left:     10px;
+  padding-right:    10px;
+  text-align:       left;
+}
+
+.left {
+  width:            130px;
+}
+
+.right {
+  height:           105px;
+  width:            calc(100% - 200px);
+  padding-top:      40px;
+  padding-bottom:   5px;
+  padding-left:     30px;
+  font-size:        1.4em;
+  font-weight:      bold;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.navbar {
+  background-color: #262626;
+  color:            #d7d7d7;
+  font-size:        0.7em;
+}
+
+.navbar ul li {
+  display:        inline-block;
+  padding:        1px;
+  padding-top:    10px;
+  padding-bottom: 10px;
+}
+
+.navbar ul li a {
+  text-decoration: none;
+}
+
+.navbar ul li a:hover {
+  background:       #ef2929;
+  color:            #d7d7d7;
+  font-size:        1em;
+  font-weight:      bold;
+}
+
+pre {
+  /*border:        3px solid rgba(255, 255, 255, 0.15);*/
+  /*border-radius: 2px;*/
+  padding:       0px; 
+  color:         #73d216;
+  background-color: #1a1a1a;
+  font-size:     1em; 
+}
+
+code {
+  color:            #d7d7d7;
+  background-color: #1a1a1a;  
+}
+
+/*
+  ZCZC
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  padding: 10px; 
+  color: #b5e853;
+  background: rgba(0, 0, 0, 0.9);
+  border-radius: 2px;
+  word-wrap: normal;
+  overflow: auto;
+  overflow-y: hidden;
+  max-width: 65%;
+ */
+
+/*
+ ************************************************************
+ */
+
+@media screen and (max-width:768px) {
+  ul {
+    margin: 0;
+    padding: 0;
+  }
+  #navbar ul li {
+    display: block;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+  }
+  #navbar ul li a {
+    margin: 0;
+    padding: 0;
+  }
+  #menu {
+    display: none;
+  }
+  #maincontent {
+    width: 100%;
+    padding: 0;
+  }
+  h1 {
+    font-size: 1em;
+  }
+}
+
+/*
+ ************************************************************
+ */

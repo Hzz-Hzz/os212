@@ -1,4 +1,5 @@
 ---
+layout: "links_layout"
 permalink: /LINKS/
 ---
 

@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<!-- File _layouts/layout.html           -->
+<!-- (c) 2021 - 2021 VauLSMorg           -->
+<!-- START: Wed 17 Feb 2021 19:44:53 WIB -->
+<!-- This is a free HTML file            -->
+
+<head>
+  <title>
+      Hzz-Hzz's OS page (os212)
+  </title>
+  <meta charset="utf-8">
+  <meta name="viewport"    content="width=device-width, initial-scale=1">
+  <meta name="description" content="{{ page.excerpt | default: site.description }}">
+  <!-- link href="{{ site.baseurl }}/assets/css/css.css" rel="stylesheet" type="text/css" title="Style" -->
+  <!-- link href="/assets/css/css.css" rel="stylesheet" type="text/css" title="Style" -->
+  <link href="{{ site.baseurl }}/assets/css/style.css" rel="stylesheet" type="text/css" title="Style">
+</head>
+
+
+<body class="plainclass1">
+<!-- body class="backclass" -->
+<div class="container">
+  <header>
+  <div class="row">
+    <div class="column left">
+      <img src="{{ site.baseurl }}/assets/img/favimg.jpg" alt="Milk Mocha Bear" style="width:130px; border-radius:70%">
+    </div>
+    <div class="column right">
+        <p>Nuel's OS212 Link Page</p>
+    </div>
+  </div>
+  </header>
+  
+  <nav class="navbar">
+    <ul>
+      <li class='listitem'><a href='{{ site.baseurl }}/'>HOME</a></li>
+      <li class='listitem'><a href='{{ site.baseurl }}/LINKS'>LINKS</a></li>
+      <li class='listitem'><a href='{{ site.baseurl }}/TXT/mylog.txt'>LOG</a></li>
+      <li class='listitem'><a href='{{ site.urlgithub }}'>GITHUB</a></li>
+    </ul>
+  </nav>
+  
+  <section>
+     {{ content }}
+  </section>
+  {% include footer.html %}
+</div>
+</body>
+</html>
