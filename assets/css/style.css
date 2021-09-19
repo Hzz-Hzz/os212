@@ -18,6 +18,14 @@
   background-color: #003263;
 }
 
+@font-face {
+    font-family: "ReginaScript";
+    src: url("{{ site.baseurl }}/assets/fonts/ReginaScript.ttf");
+    /* src: url("CustomFont.woff") format("woff"),
+    url("CustomFont.otf") format("opentype"),
+    url("CustomFont.svg#filename") format("svg"); */
+}
+
 .container {
   max-width:    70%;
   margin:       0 auto;
