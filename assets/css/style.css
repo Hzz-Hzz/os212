@@ -3,6 +3,11 @@
  including but not limited to "bootstrap", "stack overflow", 
  "Mike Dane", "w3schools", et al.
  */
+body {  /* define variables */
+    --default-header-size:130px;
+}
+
+
 
 .backclass {
   background-image:url(/assets/img/default.png)
@@ -49,7 +54,7 @@
   float:            left;
   display:          inline-block;
   background:       #0390fc;
-  height:           130px;
+  height:           var(--default-header-size);
   width:            100%;
   padding-top:      10px;
   padding-bottom:   10px;
@@ -59,12 +64,12 @@
 }
 
 .left {
-  width:            130px;
+  width:            var(--default-header-size);
 }
 
 .right {
   height:           105px;
-  width:            calc(100% - 200px);
+  width:            calc(100% - var(--default-header-size));
   padding-top:      40px;
   padding-bottom:   5px;
   padding-left:     30px;
