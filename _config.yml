@@ -3,15 +3,15 @@ version:     "Rolling"
 copyright:   "2021-2021"
 description: >- 
   Operating System class is based
-author:           "Fawzan Fawzi"
+author:           "Immanuel"
 address:          "NONE"
 sitemap:          "true"
 plugins:
   - jekyll-sitemap
-urlweb:           "https://fawzakin.github.io/os212/"
+urlweb:           "https://Hzz-Hzz.github.io/os212/"
 urlcontact:       "NONE"
-urlgithub:        "https://github.com/fawzakin/os212/"
-urlghpage:        "https://fawzakin.github.io/os212/"
+urlgithub:        "https://github.com/Hzz-Hzz/os212/"
+urlghpage:        "https://Hzz-Hzz.github.io/os212/"
 keywords:         "jekyll, os, testing"
 github:           
   - metadata
