@@ -4,7 +4,8 @@
  "Mike Dane", "w3schools", et al.
  */
 body {  /* define variables */
-    --default-header-size:130px;
+    --default-header-size: 130px;
+    --default-header-photoprofile-padding: 10px;
 }
 
 
@@ -27,7 +28,7 @@ body {  /* define variables */
 
 header.header_outter > .row{
     display: grid;
-    grid-template-columns: var(--default-header-size) 1fr;
+    grid-template-columns: calc(2 * var(--default-header-photoprofile-padding) + var(--default-header-size)) 1fr;
 }
 
 .header_container{
@@ -65,10 +66,10 @@ header.header_outter > .row{
   background:       #0390fc;
   height:           var(--default-header-size);
   width:            100%;
-  padding-top:      10px;
-  padding-bottom:   10px;
-  padding-left:     10px;
-  padding-right:    10px;
+  padding-top:      var(--default-header-photoprofile-padding);
+  padding-bottom:   var(--default-header-photoprofile-padding);
+  padding-left:     var(--default-header-photoprofile-padding);
+  padding-right:    var(--default-header-photoprofile-padding);
   text-align:       left;
 }
 
