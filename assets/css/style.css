@@ -102,10 +102,12 @@ body {  /* define variables */
 
 
 
-/*
 .navbar ul li a {
   text-decoration: none;
+  font-size:        1em;
 }
+
+/*
 
 .navbar ul li a:hover {
   background-color:       #0390fc;
