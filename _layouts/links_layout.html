@@ -17,19 +17,16 @@
   <style>
     @font-face {
         font-family: "WinterHoliday";
-        letter-spacing: 120%;
+        letter-spacing: 140%;
         size-adjust: 200%;
         
         src: url("{{ site.baseurl }}/assets/fonts/WinterHoliday.ttf");
         
-        
-        /* src: url("CustomFont.woff") format("woff"),
-        url("CustomFont.otf") format("opentype"),
-        url("CustomFont.svg#filename") format("svg"); */
     }
   </style>
   
   <link href="{{ site.baseurl }}/assets/css/style.css" rel="stylesheet" type="text/css" title="Style">
+  <link href="{{ site.baseurl }}/assets/css/extra_style.css" rel="stylesheet" type="text/css" title="Style">
 </head>
 
 
@@ -49,16 +46,17 @@
   
   <nav class="navbar">
     <ul>
-      <li class='listitem'><a href='{{ site.baseurl }}/'>HOME</a></li>
-      <li class='listitem'><a href='{{ site.baseurl }}/LINKS'>LINKS</a></li>
-      <li class='listitem'><a href='{{ site.baseurl }}/TXT/mylog.txt'>LOG</a></li>
-      <li class='listitem'><a href='{{ site.urlgithub }}'>GITHUB</a></li>
+      <li class='listitem'><a href='{{ site.baseurl }}/' class="link--kale">HOME</a></li>
+      <li class='listitem'><a href='{{ site.baseurl }}/LINKS' class="link--kale">LINKS</a></li>
+      <li class='listitem'><a href='{{ site.baseurl }}/TXT/mylog.txt' class="link--kale">LOG</a></li>
+      <li class='listitem'><a href='{{ site.urlgithub }}' class="link--kale">GITHUB</a></li>
     </ul>
   </nav>
   
   <section>
      {{ content }}
   </section>
+  
   {% include footer.html %}
 </div>
 </body>

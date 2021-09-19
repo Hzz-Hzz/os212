@@ -1,0 +1,107 @@
+/*
+    Taken from:
+    https://github.com/codrops/LineHoverStyles/
+*/
+
+
+/* for default links */
+
+
+
+a:not(.link--kale) {
+
+}
+
+a:not(.link--kale)::before,
+a:not(.link--kale)::after {
+    opacity: 0;
+    transform-origin: 50% 0%;
+    transform: translate3d(0, 3px, 0);
+    transition-property: transform, opacity;
+    transition-duration: 0.3s;
+    transition-timing-function: cubic-bezier(0.2, 1, 0.8, 1);
+}
+
+a:not(.link--kale):hover::before,
+a:not(.link--kale):hover::after {
+    opacity: 1;
+    transform: translate3d(0, 0, 0);
+    transition-timing-function: cubic-bezier(0.2, 0, 0.3, 1);
+}
+
+a:not(.link--kale)::after {
+    content: '';
+    top: calc(100% + 4px);
+    width: 70%;
+    left: 15%;
+}
+
+a:not(.link--kale)::before,
+a:not(.link--kale):hover::after {
+    transition-delay: 0.1s;
+}
+
+a:not(.link--kale):hover::before {
+    transition-delay: 0s;
+}
+
+
+
+
+/* for navbar links */
+
+
+
+.link--kale {
+    font-family: halyard-display, sans-serif;
+    font-weight: 600;
+    text-transform: lowercase;
+}
+
+.link--kale::before {
+    height: 10px;
+    top: 100%;
+    opacity: 0;
+}
+
+.link--kale:hover::before {
+    opacity: 1;
+    animation: lineUp 0.3s ease forwards;
+}
+
+@keyframes lineUp {
+    0% {
+        transform-origin: 50% 100%;
+        transform: scale3d(1, 0.045, 1);
+    }
+
+    50% {
+        transform-origin: 50% 100%;
+        transform: scale3d(1, 1, 1);
+    }
+
+    51% {
+        transform-origin: 50% 0%;
+        transform: scale3d(1, 1, 1);
+    }
+
+    100% {
+        transform-origin: 50% 0%;
+        transform: scale3d(1, 0.045, 1);
+    }
+}
+
+.link--kale::after {
+    content: '';
+    transition: opacity 0.3s;
+    opacity: 0;
+    transition-delay: 0s;
+}
+
+.link--kale:hover::after {
+    opacity: 1;
+    transition-delay: 0.3s;
+}
+
+
+

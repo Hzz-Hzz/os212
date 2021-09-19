@@ -114,8 +114,9 @@ pre {
 code {
   color:            #e7e7e7;
   /* background-color: #002142;   */
-  background-color: #001112;  
+  background-color: #222222;  
   border-radius: 10%;
+  padding: 4px;
   font-family:  sans-serif,monospace;
 }
 
