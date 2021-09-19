@@ -25,6 +25,10 @@ body {  /* define variables */
 }
 
 
+header.header_outter{
+    width:calc(100% + 30px);
+}
+
 .header_container{
     font-size:    1em;
     font-family:  'WinterHoliday',verdana,arial,helvetica,san-serif;
