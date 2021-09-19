@@ -1,0 +1,17 @@
+title:       "Operating Systems 2021-2 (OS212)"
+version:     "Rolling"
+copyright:   "2021-2021"
+description: >- 
+  Operating System class is based
+author:           "Fawzan Fawzi"
+address:          "NONE"
+sitemap:          "true"
+plugins:
+  - jekyll-sitemap
+urlweb:           "https://fawzakin.github.io/os212/"
+urlcontact:       "NONE"
+urlgithub:        "https://github.com/fawzakin/os212/"
+urlghpage:        "https://fawzakin.github.io/os212/"
+keywords:         "jekyll, os, testing"
+github:           
+  - metadata
