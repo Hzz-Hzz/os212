@@ -43,11 +43,13 @@ body {  /* define variables */
 .container a {
   color: #a0a0a0;
 }
-*/
 
 .container a:hover {
   color: #f0f0f0;
 }
+*/
+
+
 
 .row {
 }
