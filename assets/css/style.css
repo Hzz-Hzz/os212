@@ -22,6 +22,7 @@
 .header_container{
     font-size:    1em;
     font-family:  'WinterHoliday',verdana,arial,helvetica,san-serif;
+    vertical-align: middle;
 }
 
 .container {
@@ -77,7 +78,7 @@
 }
 
 .navbar {
-  background-color: #262626;
+  background-color: #00468c;
   color:            #d7d7d7;
   font-size:        0.7em;
 }
