@@ -15,7 +15,8 @@
 
 .plainclass1 {
   color:            white;
-  background-color: #003263;
+  background-color: #182e45;
+  /* background-color: #003263; */
 }
 
 
@@ -78,7 +79,7 @@
 }
 
 .navbar {
-  background-color: #00468c;
+  background-color: #003263;
   color:            #d7d7d7;
   font-size:        0.7em;
 }
