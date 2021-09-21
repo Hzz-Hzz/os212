@@ -16,6 +16,7 @@ ZCZC W00 20 L15 Reading assignment
 ZCZC W00 90 L06 Latihan soal 195.pdf
 ZCZC W00 90 L06 Mempelajari slide
 
+
 ZCZC W01 05 L05 Quiz W00
 ZCZC W01 15 L11 Assignment 01
 ZCZC W01 30 L12 Assignment 02
@@ -30,6 +31,7 @@ ZCZC W01 90 L64 Helped my friend to setup their linux again
 ZCZC W01 120 L18 Assignment 08
 ZCZC W01 90 L19 Assignment 09
 ZCZC W01 70 L20 menjawab script problems di forum
+
 
 ZCZC W02 05 L05 Quiz W01 bagian 1
 ZCZC W02 15 L05 Quiz W01 bagian 2
@@ -49,3 +51,10 @@ ZCZC W02 10 L09 Assignment  #11 -- Membuat dan/atau menciptakan bash script untu
 ZCZC W02 10 L09 Assignment  #12 -- Mengupdate mylog.txt
 ZCZC W02 15 L09 Assignment  #13 -- Menulis sebuah script myscript.sh untuk menciptakan checksum dan signed checksum
 ZCZC W02 40 L24 make an automatic checksum updater and automatic pull-add-commit-push script
+
+
+ZCZC W03 05 L05 Quiz W02 bagian 1
+ZCZC W03 15 L05 Quiz W02 bagian 2
+ZCZC W03 110 L02 Zoom Meeting synchronous
+# ZCZC W03 20 L02 Zoom Meeting synchronous sesi bertanya
+
