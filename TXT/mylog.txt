@@ -58,3 +58,16 @@ ZCZC W03 15 L05 Quiz W02 bagian 2
 ZCZC W03 110 L02 Zoom Meeting synchronous
 # ZCZC W03 20 L02 Zoom Meeting synchronous sesi bertanya
 
+# ZCZC W03 180 L11 Assignment #01 -- Reading assignment
+# ZCZC W03 30 L12 Assignment  #02  -- C demos
+# ZCZC W03 190 L13 Assignment #03 -- Cyber security youtube
+ZCZC W03 10 L14 Assignment  #04 -- Mengecek bash aliases
+# ZCZC W03 10 L15 Assignment  #05 -- Menampilkan seluruh list dari GPG key
+# ZCZC W03 05 L16 Assignment  #06 -- Mengimport ospubkey.txt key
+# ZCZC W03 10 L17 Assignment  #07 -- Menandatangani public key OS
+# ZCZC W03 10 L18 Assignment  #08 -- Mengeksport public key
+# ZCZC W03 15 L19 Assignment  #09 -- Mengupdate LINKS/
+# ZCZC W03 15 L20 Assignment  #10 -- Melakukan peer review
+# ZCZC W03 10 L09 Assignment  #11 -- Membuat dan/atau menciptakan bash script untuk checksum
+# ZCZC W03 10 L09 Assignment  #12 -- Mengupdate mylog.txt
+# ZCZC W03 15 L09 Assignment  #13 -- Menulis sebuah script myscript.sh untuk menciptakan checksum dan signed checksum
