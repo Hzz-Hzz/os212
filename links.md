@@ -13,6 +13,10 @@ permalink: /LINKS/
 
    Mempelajari berbagai macam jenis-jenis implementasi pada file system serta komponen-komponennya. Mulai dari cara melacak apakah suatu block of file itu kosong atau tidak, manfaat inode, manfaat superblock, dll.
 
+3. [File allocation methods](https://www.geeksforgeeks.org/file-allocation-methods/)
+
+   Artikel singkat mengenai file allocation methods
+
 
 ## My other links
 
