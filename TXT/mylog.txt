@@ -56,7 +56,7 @@ ZCZC W02 40 L24 make an automatic checksum updater and automatic pull-add-commit
 ZCZC W03 05 L05 Quiz W02 bagian 1
 ZCZC W03 15 L05 Quiz W02 bagian 2
 ZCZC W03 110 L02 Zoom Meeting synchronous
-# ZCZC W03 20 L02 Zoom Meeting synchronous sesi bertanya
+ZCZC W03 20 L02 Zoom Meeting synchronous sesi bertanya
 
 ZCZC W03 210 L11 Assignment #01 -- Membaca chapter 13, 14, dan 15
 ZCZC W03 30 L12 Assignment  #02 -- Mencoba Demo
@@ -66,5 +66,5 @@ ZCZC W03 20 L15 Assignment  #05 -- Membuat virtual disk tambahan
 ZCZC W03 10 L16 Assignment  #06 -- Mengupdate bookmark link
 ZCZC W03 10 L17 Assignment  #07 -- Review peer links
 ZCZC W03 10 L18 Assignment  #08 -- Mengupdate log
-# ZCZC W03 15 L19 Assignment  #09 -- 
+ZCZC W03 15 L19 Assignment  #09 -- Mengumpulkan assignments W03
 
