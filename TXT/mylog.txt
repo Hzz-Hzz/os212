@@ -64,7 +64,7 @@ ZCZC W03 190 L13 Assignment #03 -- Latihan soal
 ZCZC W03 10 L14 Assignment  #04 -- Mengecek bash aliases
 ZCZC W03 20 L15 Assignment  #05 -- Membuat virtual disk tambahan
 ZCZC W03 10 L16 Assignment  #06 -- Mengupdate bookmark link
-# ZCZC W03 10 L17 Assignment  #07 -- 
+ZCZC W03 10 L17 Assignment  #07 -- Review peer links
 ZCZC W03 10 L18 Assignment  #08 -- Mengupdate log
 # ZCZC W03 15 L19 Assignment  #09 -- 
 
