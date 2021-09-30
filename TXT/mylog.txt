@@ -57,7 +57,6 @@ ZCZC W03 05 L05 Quiz W02 bagian 1
 ZCZC W03 15 L05 Quiz W02 bagian 2
 ZCZC W03 110 L02 Zoom Meeting synchronous
 ZCZC W03 20 L02 Zoom Meeting synchronous sesi bertanya
-
 ZCZC W03 210 L11 Assignment #01 -- Membaca chapter 13, 14, dan 15
 ZCZC W03 30 L12 Assignment  #02 -- Mencoba Demo
 ZCZC W03 190 L13 Assignment #03 -- Latihan soal
@@ -67,4 +66,19 @@ ZCZC W03 10 L16 Assignment  #06 -- Mengupdate bookmark link
 ZCZC W03 10 L17 Assignment  #07 -- Review peer links
 ZCZC W03 10 L18 Assignment  #08 -- Mengupdate log
 ZCZC W03 15 L19 Assignment  #09 -- Mengumpulkan assignments W03
+
+
+ZCZC W04 05 L05 Quiz W03 bagian 1
+ZCZC W04 15 L05 Quiz W03 bagian 2
+ZCZC W04 110 L02 Zoom Meeting synchronous
+# ZCZC W04 20 L02 Zoom Meeting synchronous sesi bertanya
+# ZCZC W04 210 L11 Assignment #01 -- Membaca chapter 9
+# ZCZC W04 30 L12 Assignment  #02 -- Mencoba Demo
+# ZCZC W04 190 L13 Assignment #03 -- Latihan soal
+ZCZC W04 10 L14 Assignment  #04 -- Menginstal package list 2 (TLPI)
+ZCZC W04 15 L15 Assignment  #05 -- Fetch dan extract file WEEK04.tar.bz2.asc
+# ZCZC W04 10 L16 Assignment  #06 -- Mengupdate bookmark link
+# ZCZC W04 10 L17 Assignment  #07 -- Review peer links
+ZCZC W04 10 L18 Assignment  #08 -- Mengupdate log
+# ZCZC W04 15 L19 Assignment  #09 -- Mengumpulkan assignments W04
 
