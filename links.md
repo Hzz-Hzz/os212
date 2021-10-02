@@ -19,8 +19,7 @@ permalink: /LINKS/
 
 4. [Paging vs segmenting](https://www.youtube.com/watch?v=p9yZNLeOj4s)
    
-Pengetahuan yang jauh lebih detil dan mendalam mengenai perbedaan antara paging dengan segmenting.  
-   
+   Pengetahuan yang jauh lebih detil dan mendalam mengenai perbedaan antara paging dengan segmenting.  
 5. [Virtual memory, paging, dan segmenting](https://www.youtube.com/watch?v=qeOBEOBJREs)
 
    Sedikit penjelasan mengenai apa itu virtual memory, beserta metode-metode yang biasanya digunakan (paging ataupun segmenting)
