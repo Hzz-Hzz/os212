@@ -17,6 +17,11 @@ permalink: /LINKS/
 
    Artikel singkat mengenai file allocation methods
 
+4. [Virtual memory, paging, dan segmenting](https://www.youtube.com/watch?v=qeOBEOBJREs)
+   Sedikit penjelasan mengenai apa itu virtual memory, beserta metode-metode yang biasanya digunakan (paging ataupun segmenting)
+
+5. 
+
 
 ## My other links
 
