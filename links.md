@@ -43,4 +43,4 @@ permalink: /LINKS/
 
 1. [HzzGrader](https://github.com/Hzzkygcs/SDA/releases)
 
-	Pengen survive di SDA? Salah satu yang perlu dimiliki adalah sebuah grader. Bekerja-sama dengan chronojudge, disini kalian bisa mendapatkan tools untuk mengecek apakah script SDA kalian sudah memberikan output yang diharapkan atau tidak. Semoga bermanfaat, teman-teman :D
+	Pengen survive di SDA? Salah satu yang perlu dilakukan adalah mengecek kembali script yang ingin kita kumpulkan. Bekerja-sama dengan chronojudge, disini kalian bisa mendapatkan tools untuk mengecek apakah script SDA kalian sudah memberikan output yang diharapkan atau tidak. Semoga bermanfaat, teman-teman :D
