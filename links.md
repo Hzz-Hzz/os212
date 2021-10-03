@@ -41,6 +41,6 @@ permalink: /LINKS/
 
 ## Out of topic links
 
-1. [HzzGrader](https://github.com/Hzzkygcs/SDA/releases)
+1. [HzzGrader](https://github.com/Hzzkygcs/SDA)
 
 	Ingin mendapatkan nilai bagus di SDA? Salah satu yang perlu dilakukan adalah mengecek kembali script yang ingin kita kumpulkan. Bekerja-sama dengan chronojudge, disini kalian bisa mendapatkan tools untuk mengecek apakah script SDA kalian sudah memberikan output yang diharapkan atau tidak. Semoga bermanfaat, teman-teman :D
