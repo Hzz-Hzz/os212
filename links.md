@@ -38,3 +38,9 @@ permalink: /LINKS/
 2. [myrank tracker](https://github.com/Hzz-Hzz/my_os212_useful_scripts/tree/main/rank_tracker)
 
    Penasaran siapa saja yang men-vote anda, tetapi lelah kalau harus mengecek satu-per-satu myrank setiap orang? Mungkin ini bisa jadi solusinya! :D
+
+## Out of topic links
+
+1. [HzzGrader](https://github.com/Hzzkygcs/SDA/releases)
+
+	Pengen survive di SDA? Salah satu yang perlu dimiliki adalah sebuah grader. Bekerja-sama dengan chronojudge, disini kalian bisa mendapatkan tools untuk mengecek apakah script SDA kalian sudah memberikan output yang diharapkan atau tidak. Semoga bermanfaat, teman-teman :D
