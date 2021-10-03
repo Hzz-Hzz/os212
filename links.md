@@ -36,7 +36,7 @@ permalink: /LINKS/
 
 
 
-
+<br>
 
 ## My other links
 
@@ -48,6 +48,8 @@ permalink: /LINKS/
 
    Penasaran siapa saja yang men-vote anda, tetapi lelah kalau harus mengecek satu-per-satu myrank setiap orang? Mungkin ini bisa jadi solusinya! :D
 
+
+<br>
 
 ## Out of topic links
 
