@@ -3,7 +3,13 @@ layout: "links_layout"
 permalink: /LINKS/
 ---
 
+
 # LINKS
+
+
+
+<details>
+<summary>## week 01 - 04</summary>
 
 1. [Tutorial Youtube Bash Script lengkap](https://www.youtube.com/watch?v=e7BufAVwDiM)
 
@@ -28,6 +34,9 @@ permalink: /LINKS/
 
    Saat pertama kali kita disuruh membuat OS pada virtualbox, kita disuruh mengalokasikan sebagian hard disk pada virtual OS untuk menyimpan swap file. Namun waktu itu kita tidak mengerti apa itu gunanya. Sekarang, setelah menonton video ini, kita menjadi tahu apa itu swapping dan apa itu swap file.
 
+</details>
+
+
 
 ## My other links
 
@@ -39,7 +48,9 @@ permalink: /LINKS/
 
    Penasaran siapa saja yang men-vote anda, tetapi lelah kalau harus mengecek satu-per-satu myrank setiap orang? Mungkin ini bisa jadi solusinya! :D
 
+
 ## Out of topic links
+
 
 1. [HzzGrader](https://github.com/Hzzkygcs/SDA)
 
