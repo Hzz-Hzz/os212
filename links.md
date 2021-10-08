@@ -9,7 +9,7 @@ permalink: /LINKS/
 
 
 
-## week 01 - 04
+## Week 01 - 05
 
 1. [Tutorial Youtube Bash Script lengkap](https://www.youtube.com/watch?v=e7BufAVwDiM)
 
@@ -47,6 +47,7 @@ permalink: /LINKS/
 2. [myrank tracker](https://github.com/Hzz-Hzz/my_os212_useful_scripts/tree/main/rank_tracker)
 
    Penasaran siapa saja yang men-vote anda, tetapi lelah kalau harus mengecek satu-per-satu myrank setiap orang? Mungkin ini bisa jadi solusinya! :D
+
 
 
 <br>
