@@ -33,11 +33,11 @@ permalink: /LINKS/
 
 6. [Paging vs segmenting](https://www.youtube.com/watch?v=p9yZNLeOj4s)
 
-  Pengetahuan yang jauh lebih detil dan mendalam mengenai perbedaan antara paging dengan segmenting.  
+     Pengetahuan yang jauh lebih detil dan mendalam mengenai perbedaan antara paging dengan segmenting.  
 
 7. [Virtual memory, paging, dan segmenting](https://www.youtube.com/watch?v=qeOBEOBJREs)
 
-  Sedikit penjelasan mengenai apa itu virtual memory, beserta metode-metode yang biasanya digunakan (paging ataupun segmenting)
+     Sedikit penjelasan mengenai apa itu virtual memory, beserta metode-metode yang biasanya digunakan (paging ataupun segmenting)
 
 8. [Thrashing dan CPU utilization](https://www.youtube.com/watch?v=mIJIDC-u8JU)
 
@@ -45,7 +45,7 @@ permalink: /LINKS/
 
 9. [Swapping](https://www.youtube.com/watch?v=Qt49Hzh_TDc)
 
-  Saat pertama kali kita disuruh membuat OS pada virtualbox, kita disuruh mengalokasikan sebagian hard disk pada virtual OS untuk menyimpan swap file. Namun waktu itu kita tidak mengerti apa itu gunanya. Sekarang, setelah menonton video ini, kita menjadi tahu apa itu swapping dan apa itu swap file.
+   Saat pertama kali kita disuruh membuat OS pada virtualbox, kita disuruh mengalokasikan sebagian hard disk pada virtual OS untuk menyimpan swap file. Namun waktu itu kita tidak mengerti apa itu gunanya. Sekarang, setelah menonton video ini, kita menjadi tahu apa itu swapping dan apa itu swap file.
 
 
 
