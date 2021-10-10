@@ -9,7 +9,7 @@ permalink: /LINKS/
 
 
 
-## Week 01 - 05
+## Link tiap week
 
 1. [Tutorial Youtube Bash Script lengkap](https://www.youtube.com/watch?v=e7BufAVwDiM)
 
