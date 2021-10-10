@@ -9,7 +9,7 @@ permalink: /LINKS/
 
 
 
-## Link tiap week
+## My weekly links
 
 1. [Tutorial Youtube Bash Script lengkap](https://www.youtube.com/watch?v=e7BufAVwDiM)
 
@@ -23,16 +23,29 @@ permalink: /LINKS/
 
 	Artikel singkat mengenai file allocation methods
 
-4. [Paging vs segmenting](https://www.youtube.com/watch?v=p9yZNLeOj4s)
+4. [Memory layout of C](https://www.youtube.com/watch?v=kpWG423uQIw)
 
-	Pengetahuan yang jauh lebih detil dan mendalam mengenai perbedaan antara paging dengan segmenting.  
-5. [Virtual memory, paging, dan segmenting](https://www.youtube.com/watch?v=qeOBEOBJREs)
+   Disini kita bisa mempelajari struktur memory dari sebuah program C. Disini juga kita bisa mempelajari cara melihat struktur dari program C yang kita tulis.
 
-	Sedikit penjelasan mengenai apa itu virtual memory, beserta metode-metode yang biasanya digunakan (paging ataupun segmenting)
+5. [C -- Call by value vs call by reference](https://www.youtube.com/watch?v=HEiPxjVR8CU)
 
-6. [Swapping](https://www.youtube.com/watch?v=Qt49Hzh_TDc)
+   Salah satu fitur pada C adalah pass by value dan pass by reference. Ini merupakan fitur yang sangat penting pada C maupun C++. Namun, sebagian besar orang masih merasa kesulitan dalam memahami materi ini. Disini ada video yang menjelaskan secara detil mengenai pass by value dan pass by reference.
 
-	Saat pertama kali kita disuruh membuat OS pada virtualbox, kita disuruh mengalokasikan sebagian hard disk pada virtual OS untuk menyimpan swap file. Namun waktu itu kita tidak mengerti apa itu gunanya. Sekarang, setelah menonton video ini, kita menjadi tahu apa itu swapping dan apa itu swap file.
+6. [Paging vs segmenting](https://www.youtube.com/watch?v=p9yZNLeOj4s)
+
+  Pengetahuan yang jauh lebih detil dan mendalam mengenai perbedaan antara paging dengan segmenting.  
+
+7. [Virtual memory, paging, dan segmenting](https://www.youtube.com/watch?v=qeOBEOBJREs)
+
+  Sedikit penjelasan mengenai apa itu virtual memory, beserta metode-metode yang biasanya digunakan (paging ataupun segmenting)
+
+8. [Thrashing dan CPU utilization](https://www.youtube.com/watch?v=mIJIDC-u8JU)
+
+   Salah satu fenomena yang dapat terjadi di dalam sebuah komputer adalah thrashing. Video ini menjelaskan mengenai apa itu thrashing, dan mengapa hal ini bisa terjadi. Video ini juga mejelaskan dampaknya thrashing terhadap CPU utilization pada komputer.
+
+9. [Swapping](https://www.youtube.com/watch?v=Qt49Hzh_TDc)
+
+  Saat pertama kali kita disuruh membuat OS pada virtualbox, kita disuruh mengalokasikan sebagian hard disk pada virtual OS untuk menyimpan swap file. Namun waktu itu kita tidak mengerti apa itu gunanya. Sekarang, setelah menonton video ini, kita menjadi tahu apa itu swapping dan apa itu swap file.
 
 
 
