@@ -1,5 +1,5 @@
 ---
-layout: "layout"
+layout: "links_layout"
 permalink: /TIPS/
 ---
 
