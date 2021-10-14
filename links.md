@@ -4,12 +4,12 @@ permalink: /LINKS/
 ---
 
 
-# LINKS
+# My Links
 
 
 
 
-## My weekly links
+## Week 01-04
 
 1. [Tutorial Youtube Bash Script lengkap](https://www.youtube.com/watch?v=e7BufAVwDiM)
 
@@ -31,22 +31,30 @@ permalink: /LINKS/
 
    Salah satu fitur pada C adalah pass by value dan pass by reference. Ini merupakan fitur yang sangat penting pada C maupun C++. Namun, sebagian besar orang masih merasa kesulitan dalam memahami materi ini. Disini ada video yang menjelaskan secara detil mengenai pass by value dan pass by reference.
 
-6. [Paging vs segmenting](https://www.youtube.com/watch?v=p9yZNLeOj4s)
+
+
+## week 05-08
+
+1. [Paging vs segmenting](https://www.youtube.com/watch?v=p9yZNLeOj4s)
 
      Pengetahuan yang jauh lebih detil dan mendalam mengenai perbedaan antara paging dengan segmenting.  
 
-7. [Virtual memory, paging, dan segmenting](https://www.youtube.com/watch?v=qeOBEOBJREs)
+2. [Virtual memory, paging, dan segmenting](https://www.youtube.com/watch?v=qeOBEOBJREs)
 
      Sedikit penjelasan mengenai apa itu virtual memory, beserta metode-metode yang biasanya digunakan (paging ataupun segmenting)
 
-8. [Thrashing dan CPU utilization](https://www.youtube.com/watch?v=mIJIDC-u8JU)
+3. [Thrashing dan CPU utilization](https://www.youtube.com/watch?v=mIJIDC-u8JU)
 
    Salah satu fenomena yang dapat terjadi di dalam sebuah komputer adalah thrashing. Video ini menjelaskan mengenai apa itu thrashing, dan mengapa hal ini bisa terjadi. Video ini juga mejelaskan dampaknya thrashing terhadap CPU utilization pada komputer.
 
-9. [Swapping](https://www.youtube.com/watch?v=Qt49Hzh_TDc)
+4. [Swapping](https://www.youtube.com/watch?v=Qt49Hzh_TDc)
 
    Saat pertama kali kita disuruh membuat OS pada virtualbox, kita disuruh mengalokasikan sebagian hard disk pada virtual OS untuk menyimpan swap file. Namun waktu itu kita tidak mengerti apa itu gunanya. Sekarang, setelah menonton video ini, kita menjadi tahu apa itu swapping dan apa itu swap file.
 
+5. [fork() function in C (linux)](https://www.youtube.com/watch?v=cex9XrZCU14)
+	fork() merupakan salah satu fungsi pada bahasa C [linux] dimana fungsi ini cukup berguna dalam membuat program parallel (multiprocessing). Hal ini tentu bisa mempercepat performa program kita. Pada video ini, kita dijelaskan secara detil mengenai apa yang dilakukan oleh fungsi fork() tersebut
+	
+6. 
 
 
 <br>
