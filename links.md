@@ -54,7 +54,10 @@ permalink: /LINKS/
 5. [fork() function in C (linux)](https://www.youtube.com/watch?v=cex9XrZCU14)
 	fork() merupakan salah satu fungsi pada bahasa C [linux] dimana fungsi ini cukup berguna dalam membuat program parallel (multiprocessing). Hal ini tentu bisa mempercepat performa program kita. Pada video ini, kita dijelaskan secara detil mengenai apa yang dilakukan oleh fungsi fork() tersebut
 	
-6. 
+6. [exec() functions in C (linux)](https://www.youtube.com/watch?v=IFEFVXvjiHY)
+     exec() merupakan salah satu fungsi pada bahasa C yang juga cukup penting dalam mempelajari tentang process pada sistem operasi. Youtube ini membahas mengenai apa itu exec() dan apa manfaatnya, serta bagaimana cara memakainya
+
+     
 
 
 <br>
