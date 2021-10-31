@@ -107,7 +107,7 @@ ZCZC W06 115 L13 Assignment #03 -- Latihan soal
 ZCZC W06 15 L14 Assignment  #04 -- Fork() and Shared Memory
 ZCZC W06 35 L15 Assignment  #05 -- update links
 ZCZC W06 05 L16 Assignment  #06 -- add /TIPS/
-# ZCZC W06 25 L17 Assignment  #07 -- Review peer links
+ZCZC W06 25 L17 Assignment  #07 -- Review peer links
 ZCZC W06 10 L18 Assignment  #08 -- Mengupdate log
 ZCZC W06 05 L19 Assignment  #09 -- Mengumpulkan assignments W06
 
