@@ -111,3 +111,17 @@ ZCZC W06 25 L17 Assignment  #07 -- Review peer links
 ZCZC W06 10 L18 Assignment  #08 -- Mengupdate log
 ZCZC W06 05 L19 Assignment  #09 -- Mengumpulkan assignments W06
 
+ZCZC W07 05 L05 Quiz W06 bagian 1
+ZCZC W07 15 L05 Quiz W06 bagian 2
+ZCZC W07 110 L02 Zoom Meeting synchronous
+# ZCZC W07 30 L02 Zoom Meeting synchronous sesi bertanya
+# ZCZC W07 200 L11 Assignment #01 -- Membaca chapter 6, 7, 8
+# ZCZC W07 45 L12 Assignment  #02 -- Mencoba Demo
+# ZCZC W07 115 L13 Assignment #03 -- Latihan soal
+# ZCZC W07 15 L14 Assignment  #04 -- Synchronization dan shared memory
+# ZCZC W07 35 L15 Assignment  #05 -- update links
+# ZCZC W07 05 L16 Assignment  #06 -- add /TIPS/
+# ZCZC W07 25 L17 Assignment  #07 -- Review peer links
+# ZCZC W07 10 L18 Assignment  #08 -- Mengupdate log
+# ZCZC W07 05 L19 Assignment  #09 -- Mengumpulkan assignments W07
+
