@@ -53,3 +53,6 @@ echo "gpg --verify $SHA.asc $SHA"
 gpg --verify $SHA.asc $SHA
 
 exit 0
+git add .
+git commit -m "myscript.sh"
+git push
