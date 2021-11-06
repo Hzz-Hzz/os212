@@ -57,7 +57,11 @@ permalink: /LINKS/
 6. [exec() functions in C (linux)](https://www.youtube.com/watch?v=IFEFVXvjiHY)
      exec() merupakan salah satu fungsi pada bahasa C yang juga cukup penting dalam mempelajari tentang process pada sistem operasi. Youtube ini membahas mengenai apa itu exec() dan apa manfaatnya, serta bagaimana cara memakainya
 
-     
+7. [semaphore C linux](https://www.youtube.com/watch?v=TYnNKdf7cZM)
+     Semaphore merupakan sebuah fungsi yang cukup penting dalam pemrograman multi-threading. Pada video ini, akan diajarkan berbagai manfaat dan cara menggunakan semaphore pada bahasa C linux.
+
+8. [dining philosopher problem](https://www.youtube.com/watch?v=FYUi-u7UWgw)
+     Dining philosopher merupakan salah satu masalah yang penting untuk dipahami dalam pemrograman multithreading. Pada kesempatan kali ini, kita akan melihat lebih detail mengenai apa itu dining philosopher, dan bagaimana cara kita mengatasinya.
 
 
 <br>
