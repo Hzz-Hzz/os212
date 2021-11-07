@@ -52,24 +52,30 @@ permalink: /LINKS/
    Saat pertama kali kita disuruh membuat OS pada virtualbox, kita disuruh mengalokasikan sebagian hard disk pada virtual OS untuk menyimpan swap file. Namun waktu itu kita tidak mengerti apa itu gunanya. Sekarang, setelah menonton video ini, kita menjadi tahu apa itu swapping dan apa itu swap file.
 
 5. [fork() function in C (linux)](https://www.youtube.com/watch?v=cex9XrZCU14)
+	
 	fork() merupakan salah satu fungsi pada bahasa C [linux] dimana fungsi ini cukup berguna dalam membuat program parallel (multiprocessing). Hal ini tentu bisa mempercepat performa program kita. Pada video ini, kita dijelaskan secara detil mengenai apa yang dilakukan oleh fungsi fork() tersebut
 	
 6. [exec() functions in C (linux)](https://www.youtube.com/watch?v=IFEFVXvjiHY)
+
      exec() merupakan salah satu fungsi pada bahasa C yang juga cukup penting dalam mempelajari tentang process pada sistem operasi. Youtube ini membahas mengenai apa itu exec() dan apa manfaatnya, serta bagaimana cara memakainya
 
 7. [semaphore C linux](https://www.youtube.com/watch?v=TYnNKdf7cZM)
+
      Semaphore merupakan sebuah fungsi yang cukup penting dalam pemrograman multi-threading. Pada video ini, akan diajarkan berbagai manfaat dan cara menggunakan semaphore pada bahasa C linux.
 
 8. [dining philosopher problem](https://www.youtube.com/watch?v=FYUi-u7UWgw)
+
      Dining philosopher merupakan salah satu masalah yang penting untuk dipahami dalam pemrograman multithreading. Pada kesempatan kali ini, kita akan melihat lebih detail mengenai apa itu dining philosopher, dan bagaimana cara kita mengatasinya.
-     
+
 9. [Deadlock](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/)
+
      Deadlock merupakan salah satu masalah buruk pada pemrograman multithreading. Pada situs ini dijelaskan apa itu deadlock, kondisi yang harus terpenuhi supaya bisa terjadi deadlock, serta penjelasan-penjelasan dari setiap kondisi tersebut.
 
 10. [Latihan soal gate cs 2005 exam](https://www.geeksforgeeks.org/operating-systems-set-16/#)
+
      Salah satu hal yang penting dalam os ialah memahami teori-teori untuk mempersiapkan quiz 1. Pada situs ini, tersedia beberapa set latihan soal beserta kunci jawabannya. Meskipun begitu, teman-teman mungkin perlu login untuk mengakses halaman ini
 
-     
+      
 
 
 <br>
