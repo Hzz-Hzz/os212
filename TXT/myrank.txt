@@ -19,3 +19,7 @@ ZCZC W05 markusleonardwijaya
 ZCZC W06 muhammadrazif
 ZCZC W06 muhammadfarasbaginda
 ZCZC W06 mughniwibisono
+
+ZCZC W07 nakarz
+ZCZC W07 naufalpram
+ZCZC W07 myticalcat

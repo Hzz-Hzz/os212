@@ -121,7 +121,7 @@ ZCZC W07 45 L13 Assignment #03 -- Latihan soal
 ZCZC W07 15 L14 Assignment  #04 -- Synchronization dan shared memory
 ZCZC W07 45 L15 Assignment  #05 -- update links
 ZCZC W07 10 L16 Assignment  #06 -- add /TIPS/
-# ZCZC W07 25 L17 Assignment  #07 -- Review peer links
+ZCZC W07 10 L17 Assignment  #07 -- Review peer links
 ZCZC W07 10 L18 Assignment  #08 -- Mengupdate log
 ZCZC W07 05 L19 Assignment  #09 -- Mengumpulkan assignments W07
 
