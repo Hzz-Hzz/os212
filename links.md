@@ -62,6 +62,14 @@ permalink: /LINKS/
 
 8. [dining philosopher problem](https://www.youtube.com/watch?v=FYUi-u7UWgw)
      Dining philosopher merupakan salah satu masalah yang penting untuk dipahami dalam pemrograman multithreading. Pada kesempatan kali ini, kita akan melihat lebih detail mengenai apa itu dining philosopher, dan bagaimana cara kita mengatasinya.
+     
+9. [Deadlock](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/)
+     Deadlock merupakan salah satu masalah buruk pada pemrograman multithreading. Pada situs ini dijelaskan apa itu deadlock, kondisi yang harus terpenuhi supaya bisa terjadi deadlock, serta penjelasan-penjelasan dari setiap kondisi tersebut.
+
+10. [Latihan soal gate cs 2005 exam](https://www.geeksforgeeks.org/operating-systems-set-16/#)
+     Salah satu hal yang penting dalam os ialah memahami teori-teori untuk mempersiapkan quiz 1. Pada situs ini, tersedia beberapa set latihan soal beserta kunci jawabannya. Meskipun begitu, teman-teman mungkin perlu login untuk mengakses halaman ini
+
+     
 
 
 <br>
