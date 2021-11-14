@@ -136,7 +136,7 @@ ZCZC W08 35 L14 Assignment  #04 -- LFS chapter 1-4
 ZCZC W08 65 L15 Assignment  #05 -- LFS chapter 5
 ZCZC W08 10 L17 Assignment  #06 -- update links
 ZCZC W08 05 L16 Assignment  #07 -- add /TIPS/
-# ZCZC W08 15 L18 Assignment  #08 -- Review links
+ZCZC W08 15 L18 Assignment  #08 -- Review links
 ZCZC W08 10 L18 Assignment  #09 -- Update log
 ZCZC W08 05 L20 Assignment  #10 -- Mengumpulkan assignments W08
 
