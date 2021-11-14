@@ -80,7 +80,9 @@ permalink: /LINKS/
 	Pada video ini, kita akan mempelajari banyak hal yang berkaitan dengan CPU scheduling. Pada video ini, kita akan mengenal apa itu cpu scheduler, dispatcher, dispatch latency, hingga preemptive dan non-preemptive scheduling.
 
 
-12.      
+12. [CPU scheduling policy & round robin scheduling](https://www.geeksforgeeks.org/cpu-scheduling-in-operating-systems/)
+
+	Salah satu hal yang cukup penting dalam multiprogramming adalah scheduling. Pada webpage ini, kita akan dikenalkan dengan beberapa istilah (throughput, turnaround, dsb), serta kita juga akan diperkenalkan dengan beberapa scheduling policy, termasuk round robin scheduling.  
 
        
 
