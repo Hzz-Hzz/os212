@@ -84,7 +84,9 @@ permalink: /LINKS/
 
 	Salah satu hal yang cukup penting dalam multiprogramming adalah scheduling. Pada webpage ini, kita akan dikenalkan dengan beberapa istilah (throughput, turnaround, dsb), serta kita juga akan diperkenalkan dengan beberapa scheduling policy, termasuk round robin scheduling.  
 
-       
+13. [Round robin scheduling example](https://www.youtube.com/watch?v=7TpxxTNrcTg)
+
+	Pada video ini, kita akan dikenalkan secara lebih mendalam mengenai round robin scheduling. Dengan menggunakan contoh pada video ini, semoga kita bisa semakin paham mengenai round robin dan cara kerjanya.
 
 
 <br>
