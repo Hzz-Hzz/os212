@@ -73,9 +73,16 @@ permalink: /LINKS/
 
 10. [Latihan soal gate cs 2005 exam](https://www.geeksforgeeks.org/operating-systems-set-16/#)
 
-     Salah satu hal yang penting dalam os ialah memahami teori-teori untuk mempersiapkan quiz 1. Pada situs ini, tersedia beberapa set latihan soal beserta kunci jawabannya. Meskipun begitu, teman-teman mungkin perlu login untuk mengakses halaman ini
+      Salah satu hal yang penting dalam os ialah memahami teori-teori untuk mempersiapkan quiz 1. Pada situs ini, tersedia beberapa set latihan soal beserta kunci jawabannya. Meskipun begitu, teman-teman mungkin perlu login untuk mengakses halaman ini
 
-      
+11. [Preemptive dan non-preemptive scheduling](https://www.youtube.com/watch?v=4DhFmL-6SDA)
+
+	Pada video ini, kita akan mempelajari banyak hal yang berkaitan dengan CPU scheduling. Pada video ini, kita akan mengenal apa itu cpu scheduler, dispatcher, dispatch latency, hingga preemptive dan non-preemptive scheduling.
+
+
+12.      
+
+       
 
 
 <br>
